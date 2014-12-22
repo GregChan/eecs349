@@ -1,0 +1,26 @@
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         328               93.4473 %
+Incorrectly Classified Instances        23                6.5527 %
+Kappa statistic                          0.8527
+Mean absolute error                      0.0655
+Root mean squared error                  0.256 
+Relative absolute error                 14.2291 %
+Root relative squared error             53.3581 %
+Coverage of cases (0.95 level)          93.4473 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances              351     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.833    0.009    0.981      0.833    0.901      0.859    0.912     0.878     b
+                 0.991    0.167    0.914      0.991    0.951      0.859    0.912     0.912     g
+Weighted Avg.    0.934    0.110    0.938      0.934    0.933      0.859    0.912     0.899     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 105  21 |   a = b
+   2 223 |   b = g

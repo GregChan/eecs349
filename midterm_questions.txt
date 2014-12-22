@@ -1,0 +1,39 @@
+how does candidate elimination handle noise in training data
+what is inductive bias
+what is the inductive bias of the representation you used in the candidate elimination
+what is the inductive bias of the linear regression
+what is the inductive bias of the id3 learning algorithm 
+is there any boolean function that cannot be expressed as a binary decision tree
+is the k nearest neighbor function able to represent non linear functions
+give an example of a lazy learner and give an example of an eager learner
+how is kernel regression related to k nearest neighbor regression
+what is a pro of a memory based learner what is a con of a memory based learner
+is there a close form analytic solution for linear regression
+how can one use a linear regressor to learn polynomial functions of 1d input data
+what is a way to select a polynomial value for polynomial regression
+what is over fitting
+explain how to do classification via regression
+is classification via regression robust to outliers
+what is gradient decent
+name at least one learning algorithm that uses a gradient decent approach
+under what condition is gradient decent guaranteed to find the global optimum
+give a definition of true error of a hypothesis
+is it possible to approximate a normal distribution by taking sums of bernouli trials
+describe n fold cross validation
+to decrease uncertainty in an estimate of a mean by a factor of n i need how many observations
+why do n fold cross validation (whats the benefit of n fold cross validation over single split)
+what is the kernel trick
+in a support vector machine, what are the support vectors
+why is the kernel trick force us to use the support vectors for classifications of new data points once the decision surface has been learned
+you want to use a support vector machine to classify spam and not spam email (how do you use svm to encode documents?) hw3
+i have a function f(x, y) that performs an inner product on x y is it a kernel
+are perceptrons able to learn non linear decision surfaces (single layer perceptron)
+are multi layer perceptrons able to learn non linear decision surfaces (with sigmoid functions)
+which is able to represent more boolean functions a decision tree or a neuaral net using linear nodes in the delta training rule
+can multi layer perceptrons using thresholded perceptron nodes use gradient decent to learn their weights why or why not
+what's the pithy version of heads postulate -> "cells that fire together wire together"
+what is one kind of learner that using hebbian learning
+what are restricted boltzman machines why to do they matter
+give a rule of thumb for the relation ship of the complexity of a model and the number of training points and how this effects
+which of the following statistical tests make the fewest assumptions students, welches, man....
+http://reverbalize.appspot.com/

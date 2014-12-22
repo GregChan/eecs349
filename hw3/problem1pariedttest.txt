@@ -1,0 +1,33 @@
+Tester:     weka.experiment.PairedCorrectedTTester
+Analysing:  Percent_correct
+Datasets:   1
+Resultsets: 15
+Confidence: 0.05 (two tailed)
+Sorted by:  -
+Date:       11/2/14 9:31 PM
+
+
+Dataset                   (1) function | (2) funct (3) funct (4) funct (5) funct (6) funct (7) funct (8) funct (9) funct (10) func (11) func (12) func (13) func (14) func (15) func
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ionosphere               (100)   64.10 |   93.88 v   93.05 v   94.42 v   74.61 v   87.10 v   87.15 v   87.38 v   87.58 v   85.10 v   64.10     64.10     64.10     88.27 v   91.23 v
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                               (v/ /*) |   (1/0/0)   (1/0/0)   (1/0/0)   (1/0/0)   (1/0/0)   (1/0/0)   (1/0/0)   (1/0/0)   (1/0/0)   (0/1/0)   (0/1/0)   (0/1/0)   (1/0/0)   (1/0/0)
+
+
+Key:
+(1) functions.LibSVM '-S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 0.01 -E 0.001 -P 0.1 -model /Users/GC -seed 1' 14172
+(2) functions.LibSVM '-S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 100.0 -E 0.001 -P 0.1 -model /Users/GC -seed 1' 14172
+(3) functions.LibSVM '-S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -model /Users/GC -seed 1' 14172
+(4) functions.LibSVM '-S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 10.0 -E 0.001 -P 0.1 -model /Users/GC -seed 1' 14172
+(5) functions.LibSVM '-S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 0.1 -E 0.001 -P 0.1 -model /Users/GC -seed 1' 14172
+(6) functions.LibSVM '-S 0 -K 0 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -model /Users/GC -seed 1' 14172
+(7) functions.LibSVM '-S 0 -K 0 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 0.1 -E 0.001 -P 0.1 -model /Users/GC -seed 1' 14172
+(8) functions.LibSVM '-S 0 -K 0 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 100.0 -E 0.001 -P 0.1 -model /Users/GC -seed 1' 14172
+(9) functions.LibSVM '-S 0 -K 0 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 10.0 -E 0.001 -P 0.1 -model /Users/GC -seed 1' 14172
+(10) functions.LibSVM '-S 0 -K 0 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 0.01 -E 0.001 -P 0.1 -model /Users/GC -seed 1' 14172
+(11) functions.LibSVM '-S 0 -K 1 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 0.01 -E 0.001 -P 0.1 -model /Users/GC -seed 1' 14172
+(12) functions.LibSVM '-S 0 -K 1 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 0.1 -E 0.001 -P 0.1 -model /Users/GC -seed 1' 14172
+(13) functions.LibSVM '-S 0 -K 1 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -model /Users/GC -seed 1' 14172
+(14) functions.LibSVM '-S 0 -K 1 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 10.0 -E 0.001 -P 0.1 -model /Users/GC -seed 1' 14172
+(15) functions.LibSVM '-S 0 -K 1 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 100.0 -E 0.001 -P 0.1 -model /Users/GC -seed 1' 14172
+
